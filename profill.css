@@ -98,16 +98,16 @@ section#box-profile{
 	display: inline-block;
 	width: 210px;
 	height: 210px;
-	border-radius: 250px;
+	border-radius: 300px;
 	float: left;
 	top: 25px;
 	margin-left: 40px;
-	margin-top: 35px;
+	margin-top: 10px;
 }
 .img-profile .photo{
 	height: 100%;
 	background-size: 100%;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-position: 0px -20px;
 	border-radius: 300px;
 }
